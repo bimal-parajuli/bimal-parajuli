@@ -1,12 +1,13 @@
 ### Hi there <img src="https://github.com/bimal-parajuli/bimal-parajuli/blob/main/assets/wave.gif" width="200px">
 
 ...
+
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/bimalparajuli5?style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/bimal-parajuli?style=social)
 
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bimalparajuli5?style=social">
 ## I'm Bimal Parajuli
 - 🔭 I’m currently studying Computer Science and Engineering.
 - 🌱 I’m currently learning Web Development, Databases and Machine Learning
