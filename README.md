@@ -2,7 +2,8 @@
 
 ...
 
-<br>
+## I'm Bimal Parajuli
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=bimal-parajuli&color=green&style=flat&label=Profile%20Visits)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bimalparajuli5?style=social)
@@ -10,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/bimal-parajuli?style=social)
 
 
-## I'm Bimal Parajuli
+## 
 - 🔭 I’m currently studying Computer Science and Engineering.
 - 🌱 I’m currently learning Web Development, Databases and Machine Learning
 - 👯 I’m looking to collaborate on various interesting projects.
