@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/bimal-parajuli/bimal-parajuli/blob/main/assets/wave.gif" width="200px">
 
 ...
-
+![](https://komarev.com/ghpvc/?username=bimal-parajuli&color=green&style=flat)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bimalparajuli5?style=social)
 
