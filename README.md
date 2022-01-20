@@ -6,7 +6,7 @@
 
 ## 
 - 🔭 I’m currently studying Computer Science and Engineering.
-- 🌱 I’m currently learning Web Development, Databases and Machine Learning
+- 🌱 I’m currently learning Web Development, Databases and Machine Learning, Cloud Computing and a lot more...
 - 👯 I’m looking to collaborate on various interesting projects.
 - 🤔 I’m looking for help with my project deployment.
 - 💬 Ask me about anything interesting.
