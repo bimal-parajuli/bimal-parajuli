@@ -22,8 +22,8 @@
 
 <!--   Twitter Follow -->
  <p align="left"> 
-   <a href="https://twitter.com/bimalparajuli5" target="blank">
-     <img src="https://img.shields.io/twitter/follow/bimalparajuli5?logo=twitter&style=for-the-badge" alt="bimalparajuli5" /> &nbsp; &nbsp; 
+   <a href="https://twitter.com/bimal_888" target="blank">
+     <img src="https://img.shields.io/twitter/follow/bimal_888?logo=twitter&style=for-the-badge" alt="bimal_888" /> &nbsp; &nbsp; 
    </a> 
   </p>
   <!-- github profile view counter -->
