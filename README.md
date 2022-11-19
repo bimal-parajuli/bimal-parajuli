@@ -8,12 +8,20 @@
 - 🔭 I’m currently studying Computer Science and Engineering.
 - 🌱 I’m currently learning Web Development, Databases and Machine Learning, Cloud Computing and a lot more...
 - 👯 I’m looking to collaborate on various interesting projects.
-- 🤔 I’m looking for help with my project deployment.
+- 🤔 I’m looking for opportunities to start my career with.
 - 💬 Ask me about anything interesting.
 - 💬 I'm open to any technical discussions and learning opportunities.
 - 📫 How to reach me: bimal.parajuli2020@vitstudent.ac.in
 - ⚡ Fun fact: Earth is round.
 
+<br>
+<br>
+
+Check out my holopin collection @ https://holopin.io/@bimal_888
+[![@bimal_888's Holopin board](https://holopin.me/bimal_888)](https://holopin.io/@bimal_888)
+
+<br>
+<br>
 <center>
 
   <br />
@@ -136,7 +144,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bimlprjuli7/profile" height="30" width="40" /> &nbsp; &nbsp; 
 </a>
 
-<!-- Topcoder... idk why I signed int to this -->
+<!-- Topcoder... idk why I signed in to this -->
 <a href="https://www.topcoder.com/members/master_zenrade" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="master_zenrade" height="30" width="40" /> &nbsp; &nbsp; 
 </a>
