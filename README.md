@@ -26,61 +26,47 @@ Check out my holopin collection @ https://holopin.io/@bimal_888
 <br>
 <br>
 
-Check out my Cloud Certifications:
-<br>
-    <p style="display:block;" align="center">
-    https://www.credly.com/users/bimal-parajuli.a929cf38/badges
-    <a href="https://www.credly.com/users/bimal-parajuli.a929cf38/badges">
-        <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/azure_3_certifications_merged.png" alt="bimal-parajuli's cloud certifications" width="100%"/>
-    </a>
-    </p>
-<!-- <br> https://www.credly.com/users/bimal-parajuli.a929cf38/badges
-[![@My Certifications](https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/azure_3_certifications_merged.png)](https://www.credly.com/users/bimal-parajuli.a929cf38/badges) -->
+Check out my Cloud Certifications:<br>
 
-<br>
-<br>
+<p style="display:block;" align="center">
+    <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/azure_3_certifications_merged.png" alt="bimal-parajuli's cloud certifications" width="100%"/>
+    <a href="https://www.credly.com/users/bimal-parajuli.a929cf38/badges">View it on Credly. </a>
+</p>
 
 
 <br>
 <br>
-
-Other recent activities and achievements:
 <br>
-    <p style="display:block;" align="center">
-    <a href="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Go%20Solutions%20Expert%20with%20Azure%20challenge.jpg">
-        <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Go%20Solutions%20Expert%20with%20Azure%20challenge.jpg" alt="bimal-parajuli as the winner in azure challenge hosted by Microsoft." width="100%"/>
-    </a>
-    </p>
 
-<!-- [![Solutions Expert with Azure Challenge.](https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Go%20Solutions%20Expert%20with%20Azure%20challenge.jpg)](https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Go%20Solutions%20Expert%20with%20Azure%20challenge.jpg) -->
+<p style="display:block;" align="center">
+    <img align="center" src="https://images.credly.com/size/680x680/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" alt="Big Data Foundations Badge from IBM earned by Bimal Parajuli." width="30%"/>
+    <br>
+    <a href="https://www.credly.com/badges/7530c4a6-122e-4dad-a893-c545c430496a">View it on credly.</a>
+</p>
 
 <br>
 <br>
 <br>
 <br>
-<br>
-    <p style="display:block;" align="center">
-    <a href="https://university.atlassian.com/student/award/tBGtFMSL9ApXBqLTmAA4GLos">
-        <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Jira_Fundamental_Atlassian_University_Bimal_Parajuli.png" alt="Jira Fundamentals Badge Earned by Bimal Parajuli from Atlassian University." width="70%"/>
-    </a>
-    </p>
 
-<!-- [![Jira Badges](https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Jira_Fundamental_Atlassian_University_Bimal_Parajuli.png)](https://holopin.io/@bimal_888) -->
+Other recent activities and achievements:<br>
+<p style="display:block;" align="center">
+    <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/Jira_Fundamental_Atlassian_University_Bimal_Parajuli.png" alt="Jira Fundamentals Badge Earned by Bimal Parajuli from Atlassian University." width="70%"/>
+    <br>
+<a align="center"  href="https://university.atlassian.com/student/award/tBGtFMSL9ApXBqLTmAA4GLos"> View it on Atlassian University</a>
+</p>
 
-<br>
-<br>
 
-<!-- <br>
-<br>
-
-[![AWSome Day AWS](https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/AWS_AWsome_Onine_Conference.png)](https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/AWS_AWsome_Onine_Conference.png) -->
 
 <br>
-    <p style="display:block;" align="center">
-    <a href="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/AWS_AWsome_Onine_Conference.png">
-        <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/AWS_AWsome_Onine_Conference.png" alt="Certificate of participation in AWSome Day online Conference hosted by AWS." width="50%"/>
-    </a>
-    </p>
+<br>
+<br>
+<br>
+
+
+<p style="display:block;" align="center">
+    <img align="center" src="https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/AWS_AWsome_Onine_Conference.png" alt="Certificate of participation in AWSome Day online Conference hosted by AWS." width="50%"/>
+</p>
 
 <br>
 <br>
